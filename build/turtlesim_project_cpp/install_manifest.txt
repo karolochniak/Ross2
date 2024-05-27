@@ -1,0 +1,17 @@
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/lib/turtlesim_project_cpp/turtle_controller
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/lib/turtlesim_project_cpp/turtle_spawner
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/ament_index/resource_index/package_run_dependencies/turtlesim_project_cpp
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/ament_index/resource_index/parent_prefix_path/turtlesim_project_cpp
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/environment/ament_prefix_path.sh
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/environment/ament_prefix_path.dsv
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/environment/path.sh
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/environment/path.dsv
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/local_setup.bash
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/local_setup.sh
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/local_setup.zsh
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/local_setup.dsv
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/package.dsv
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/ament_index/resource_index/packages/turtlesim_project_cpp
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/cmake/turtlesim_project_cppConfig.cmake
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/cmake/turtlesim_project_cppConfig-version.cmake
+/home/karolek/ros2_ws/install/turtlesim_project_cpp/share/turtlesim_project_cpp/package.xml

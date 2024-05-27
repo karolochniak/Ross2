@@ -1,0 +1,17 @@
+/home/karolek/build/my_cpp_pkg/CMakeFiles/uninstall.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/my_cpp_pkg_uninstall.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/cpp_node.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/robot_news_station.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/smartphone.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/add_two_ints_server.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/add_two_ints_client_no_opp.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/add_two_ints_client.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/number_publisher.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/number_counter.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/test.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/edit_cache.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/rebuild_cache.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/list_install_components.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/install.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/install/local.dir
+/home/karolek/build/my_cpp_pkg/CMakeFiles/install/strip.dir
